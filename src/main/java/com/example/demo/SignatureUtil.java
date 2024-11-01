@@ -26,20 +26,7 @@ public class SignatureUtil {
     final public static String privateKeyPEM =
                     "ahihi";
     final public static String privateKeyPKS8 =
-                    "MIICdwIBADANBgkqhkiG9w0BAQEFAASCAmEwggJdAgEAAoGBAMBgVcNeVIGqEysG" +
-                    "fQjX7ZJzOgC3j1X4IPbZ2uUXjNdAkLLwidOvvrdofDwWP6smVkR6+ot+rMNWFgJ9" +
-                    "o9mqeKCb4ZvJlD+MEpne0i4o2ptA9l8lzGWFaE9a2zlBfr1uVEBYqM86hybavlj6" +
-                    "lg+au+P1htFxoeLX2syMTzMWbf09AgMBAAECgYEAparQcJytfbRvKWA/EPyStMnS" +
-                    "K4foQgqaqLpXzW4Idd4+PjrzFn+EaAHs6vnl/ofXRsX5OWPvd5CNB7wW/H3XvkjI" +
-                    "GnM6wGfg1aG3g7N9mSA2T+MKGNdPUsa3fn/+A7801Nre6pUPqPXHtaOpUtrcBg8S" +
-                    "TQ4BYNr8kkQDw5YXAekCQQDwjOLXmzem+UrHka5pirOcXKweZsjRVitENx2Dwb8b" +
-                    "BYeL9JLkZttOPxLATO+4G0PBRfPh6Cp3xizQ6Uk9gzwbAkEAzLtf3wjFscOwyJyL" +
-                    "kD2/yny5JXPDzALIJ1KzXwsc38GNwTqoEw51rBUeGLAiN0X7+HMkMaE2jgOiu28r" +
-                    "KmqRhwJAOHDGFNKdhzb83cCHzMm3hNuVovh46+0s76+C5FREU8HDYQo8oQylLkHM" +
-                    "U4R5xpfXGPUh2QKRXFMKVuY1whIVuwJBAKqOarb+stt94Fev+qCmoJGKyB9IStQ5" +
-                    "eQ8xWVcThfFuaK6SNBT0FdnPGeyNR2PuvJPlMEDcQfubUcV+PmKutx8CQAzCCXrP" +
-                    "pd3CvcYIMd0EFGfces2MwYrwLk3m2CZoSoWeHp5Tq3QP0qr0YFAIAu26muXRSCqi" +
-                    "fbZe33sJ/22g9eI=";
+                    "ahihi1";
 
     final public static String publicKeyPEM =
                     "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDAYFXDXlSBqhMrBn0I1+2" +
