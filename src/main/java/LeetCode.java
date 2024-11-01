@@ -12,6 +12,8 @@ public class LeetCode {
         int[] nums = {1, 2, 3, 1, 1, 3};
         System.out.println(numIdenticalPairs(nums));
 
+        // ahihi
+
 
     }
 
