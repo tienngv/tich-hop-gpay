@@ -11,6 +11,7 @@ public class LeetCode {
 //        System.out.println(romanToInt("MCMXCIV"));  // Kết quả: 1994
         int[] nums = {1, 2, 3, 1, 1, 3};
         System.out.println(numIdenticalPairs(nums));
+        System.out.println("alo alo");
 
         // ahihi
 
