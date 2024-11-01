@@ -24,19 +24,7 @@ public class SignatureUtil {
     final public static String urlCb = "https://google.com";
 
     final public static String privateKeyPEM =
-                    "MIICXQIBAAKBgQDAYFXDXlSBqhMrBn0I1+2SczoAt49V+CD22drlF4zXQJCy8InT"+
-                    "r763aHw8Fj+rJlZEevqLfqzDVhYCfaPZqnigm+GbyZQ/jBKZ3tIuKNqbQPZfJcxl"+
-                    "hWhPWts5QX69blRAWKjPOocm2r5Y+pYPmrvj9YbRcaHi19rMjE8zFm39PQIDAQAB"+
-                    "AoGBAKWq0HCcrX20bylgPxD8krTJ0iuH6EIKmqi6V81uCHXePj468xZ/hGgB7Or5"+
-                    "5f6H10bF+Tlj73eQjQe8Fvx9175IyBpzOsBn4NWht4OzfZkgNk/jChjXT1LGt35/"+
-                    "/gO/NNTa3uqVD6j1x7WjqVLa3AYPEk0OAWDa/JJEA8OWFwHpAkEA8Izi15s3pvlK"+
-                    "x5GuaYqznFysHmbI0VYrRDcdg8G/GwWHi/SS5GbbTj8SwEzvuBtDwUXz4egqd8Ys"+
-                    "0OlJPYM8GwJBAMy7X98IxbHDsMici5A9v8p8uSVzw8wCyCdSs18LHN/BjcE6qBMO"+
-                    "dawVHhiwIjdF+/hzJDGhNo4DortvKypqkYcCQDhwxhTSnYc2/N3Ah8zJt4TblaL4"+
-                    "eOvtLO+vguRURFPBw2EKPKEMpS5BzFOEecaX1xj1IdkCkVxTClbmNcISFbsCQQCq"+
-                    "jmq2/rLbfeBXr/qgpqCRisgfSErUOXkPMVlXE4XxbmiukjQU9BXZzxnsjUdj7ryT"+
-                    "5TBA3EH7m1HFfj5irrcfAkAMwgl6z6Xdwr3GCDHdBBRn3HrNjMGK8C5N5tgmaEqF"+
-                    "nh6eU6t0D9Kq9GBQCALtuprl0Ugqon22Xt97Cf9toPXi";
+                    "ahihi";
     final public static String privateKeyPKS8 =
                     "MIICdwIBADANBgkqhkiG9w0BAQEFAASCAmEwggJdAgEAAoGBAMBgVcNeVIGqEysG" +
                     "fQjX7ZJzOgC3j1X4IPbZ2uUXjNdAkLLwidOvvrdofDwWP6smVkR6+ot+rMNWFgJ9" +
